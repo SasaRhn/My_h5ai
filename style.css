@@ -1,0 +1,42 @@
+body { 
+    font-family: FreeMono, monospace; 
+    text-align: center;
+    background-color: beige;
+}
+
+table { 
+    border-collapse: collapse; width: 100%; 
+    
+}
+
+th, td {
+     border: 1px solid #ccc; padding: 8px; text-align: left; 
+}
+
+th { 
+    background-color: beige;
+}
+
+tr:hover { 
+    background-color: #D3BF6F; 
+}
+
+ul { 
+    list-style-type: none; padding: 0;
+}
+
+li { 
+    padding: 5px 0; 
+}
+
+a { 
+    text-decoration: none; 
+}
+
+a:hover { 
+    text-decoration: underline; 
+}
+
+.file-icon { 
+    width: 20px; 
+}
